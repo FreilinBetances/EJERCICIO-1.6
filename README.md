@@ -22,7 +22,7 @@ El proyecto está basado en `create-react-app` para facilitar la configuración 
    
    Clona el repositorio e instala las dependencias necesarias:
    ```sh
-   git clone https://github.com/tu-usuario/unicafe-feedback.git
+   git clone https://github.com/FreilinBetances/EJERCICIO-1.6
    cd unicafe-feedback
    npm install
    ```
