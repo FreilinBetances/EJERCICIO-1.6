@@ -1,5 +1,4 @@
 # EJERCICIO-1.6
-Claro, aquí tienes una descripción del ejercicio 1.6 en un archivo README para tu proyecto de GitHub:
 
 ```markdown
 # Unicafe Feedback Application
